@@ -1,4 +1,4 @@
-export default [
+const paintingsItems = [
     {
       id: 1,
       title: "Jedzący kebaba",
@@ -90,3 +90,5 @@ export default [
         "./img/dyplom-016.png",
     }
   ];
+
+  export default  paintingsItems;

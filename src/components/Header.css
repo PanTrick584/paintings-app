@@ -1,0 +1,15 @@
+.header {
+    color: #404040;
+}
+.header-one {
+    text-transform: uppercase;
+    font-size: 20rem;
+    margin: 2rem 0;
+    border-bottom: 1px solid #393939;
+    border-top: 1px solid #393939;
+    padding-left: 2.6vh;
+}
+.header-two {
+    font-size: 3rem;
+    padding-left: 4vh;
+}

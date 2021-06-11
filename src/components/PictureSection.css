@@ -14,7 +14,14 @@
 }
 .picture-box {
   display: flex;
+  flex-direction: row;
   border-top: 1px solid #393939;
+ 
+}
+@media (max-width: 768px) {
+  .picture-box {
+    flex-direction: column;
+  }
 }
 .picture-section-title {
   color: #404040;
